@@ -15,7 +15,7 @@ Type in your command line, then just answer questions !
 
 
 ```python
-python3 Easy_ML_compare.py
+python3 ML_easy+Learning_curve.py
 
 ```
 
