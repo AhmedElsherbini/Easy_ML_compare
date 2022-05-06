@@ -1,7 +1,7 @@
 # Easy_ML_compare
 
 
-This tool is mainly to compare different machine learning models after the user did his-her feature extraction.
+This tool is mainly to compare different machine learning models after the user did his/her feature extraction.
 
 ## Installation
 
